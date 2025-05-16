@@ -1,6 +1,6 @@
 ## 
 <h1 align="center">Hi there 👋, I'm Juah Ginting</h1>
-<h3 align="center">A passionate Flutter Programming from Sibolga</h3>
+<h3 align="center">A passionate Flutter Programmer from Sibolga</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
