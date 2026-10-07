@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Flutter Mobile Development**
 - 🌱 I’m currently learning **Flutter and some Database**
 - 👯 I’m looking to collaborate with other Flutter Hobbies
-- ⚡ Fun fact: **I love coffee, riding motorcycles, and fishing in the river.**
+- ⚡ Fun fact: **I love coffee, riding motorcycles, and fishing.**
 
 ---
 
